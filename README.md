@@ -21,7 +21,7 @@ Before you begin, make sure you have the following installed:
 
 ---
 
-## 🧩 Install Diesel CLI
+## 🧩 Install SeaORM CLI
 
 Install the Sea-ORM command-line tool with PostgreSQL support:
 
